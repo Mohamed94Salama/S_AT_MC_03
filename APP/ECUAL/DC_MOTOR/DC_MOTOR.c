@@ -105,7 +105,3 @@ enuErrorStatus_t DCMotor_stop(uint8_t u8_Motor)
 }//end DCMotor_stop
 
 
-enuErrorStatus_t DCMotor_start(uint8_t u8_Motor)
-{
-
-}
